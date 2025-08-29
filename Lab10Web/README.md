@@ -47,7 +47,7 @@ $b->gantiWarna("Hijau");
 $b->tampilWarna();
 ?>
 ```
-![alt text](https://github.com/Ainun27/Lab10Web/blob/main/tugas10/1.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab10Web/tugas10/1.png?raw=true)
 
 #### Class Library
 - Class library merupakan pustaka kode program yang dapat digunakan bersama pada beberapa file yang berbeda (konsep modularisasi). Class library menyimpan fungsi-fungsi atau class object komponen untuk memudahkan dalam proses development aplikasi.
@@ -95,7 +95,7 @@ public function addField($name, $label)
 
 ?>
 ```
-![alt text](https://github.com/Ainun27/Lab10Web/blob/main/tugas10/2.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab10Web/tugas10/2.png?raw=true)
 
 - File tersebut tidak dapat dieksekusi langsung, karena hanya berisi deklarasi class. Untuk menggunakannya perlu dilakukan include pada file lain yang akan menjalankan dan harus dibuat instance object terlebih dulu.
 
@@ -116,7 +116,7 @@ $form->displayForm();
 echo "</body></html>";
 ?>
 ```
-![alt text](https://github.com/Ainun27/Lab10Web/blob/main/tugas10/22.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab10Web/tugas10/22.png?raw=true)
 
 - Contoh lainnya untuk database connection dan query. Buat file dengan nama database.php
 - sebelum itu, buat terlebih dahulu file config.php (global)
@@ -219,7 +219,7 @@ class Database {
 ?>
 ```
 - outputnya kosong
-![alt text](https://github.com/Ainun27/Lab10Web/blob/main/tugas10/3.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab10Web/tugas10/3.png?raw=true)
 
 - kita coba test dengan mengeluarkan output
 - buat file test.php
@@ -242,7 +242,7 @@ if ($result) {
 }
 ?>
 ```
-![alt text](https://github.com/Ainun27/Lab10Web/blob/main/tugas10/33.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab10Web/tugas10/33.png?raw=true)
 
 #### Pertanyaan dan Tugas
 - Implementasikan konsep modularisasi pada kode program pada praktukum sebelumnya dengan menggunakan class library untuk form dan database connection.
@@ -360,7 +360,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab10Web/blob/main/tugas10/4.png?raw=true)
-![alt text](https://github.com/Ainun27/Lab10Web/blob/main/tugas10/44.png?raw=true)
-![alt text](https://github.com/Ainun27/Lab10Web/blob/main/tugas10/5.png?raw=true)
-![alt text](https://github.com/Ainun27/Lab10Web/blob/main/tugas10/6.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab10Web/tugas10/4.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab10Web/tugas10/44.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab10Web/tugas10/5.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab10Web/tugas10/6.png?raw=true)

@@ -86,7 +86,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </html>
 
 ```
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/1.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/1.png?raw=true)
 
 #### Mengatur Clearfix Element
 - Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
@@ -173,7 +173,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/2.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/2.png?raw=true)
 
 - Lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right),  dan amati perubahannya.
 
@@ -231,11 +231,11 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/k.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/k.png?raw=true)
 
 #### Membuat Layout Sederhana
 - Kita akan membuat layout web sederhana seperti gambar berikut.
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/i.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/i.png?raw=true)
 
 - Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama home.html, dan file css dengan nama style.css.
 
@@ -256,7 +256,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </html>
 ```
 - Kemudian buat kerangka layout dengan semantics element seperti berikut
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/j.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/j.png?raw=true)
 
 - Kemudian tulis kode berikut
 ```ssh
@@ -292,7 +292,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 ```
 
 - Kemudian buka browser dan lihat hasilnya.
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/3.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/3.png?raw=true)
 
 - Kemudian tambahkan kode CSS untuk membuat layoutnya
 ```ssh
@@ -330,7 +330,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 ```
 
 - Kemudian lihat hasilnya pada browser.
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/4.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/4.png?raw=true)
 
 
 #### Membuat Navigasi
@@ -404,7 +404,7 @@ nav a:hover {
 }
 ```
 - Kemudian lihat hasilnya.
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/5.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/5.png?raw=true)
 
 #### Membuat Hero Panel.
 - Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut
@@ -507,7 +507,7 @@ nav a:hover {
     line-height: 25px;
 }
 ```
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/6.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/6.png?raw=true)
 
 #### Mengatur Layout Main dan Sidebar
 - Selanjutnya mengatur main content dan sidebar, tambahkan CSS floa
@@ -750,7 +750,7 @@ nav a:hover {
     line-height:25px;
 }
 ```
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/7.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/7.png?raw=true)
 
 #### Mengatur Footer
 - Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
@@ -860,7 +860,7 @@ footer {
     color:#eee;
 }
 ```
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/8.png?raw=true)
+![alt text](https://github.com/web-dasar/blob/master/Lab4Web/tugas4/8.png?raw=true)
 
 #### Menambahkan Elemen lainnya pada Main Content
 ```ssh
@@ -937,7 +937,7 @@ box img {
     clear:both;
 }
 ```
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/9.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/9.png?raw=true)
 
 #### Menambahkan Content Artikel
 - Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main conten
@@ -990,7 +990,7 @@ margin-right: 15px;
     float: right;
 }   
 ```
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/10.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/10.png?raw=true)
 
 #### Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About
@@ -1028,7 +1028,7 @@ margin-right: 15px;
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/l.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/l.png?raw=true)
 
 - code html contect
 ```ssh
@@ -1059,7 +1059,7 @@ margin-right: 15px;
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab4Web/blob/main/tugas4/m.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab4Web/tugas4/m.png?raw=true)
 
 - code css about dan contect
 ```ssh

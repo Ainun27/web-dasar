@@ -48,7 +48,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab3Web/blob/main/tugas3/satu.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab3Web/tugas3/satu.png?raw=true)
 
 2. Membuat Unorderd List
 - Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada
@@ -87,7 +87,7 @@ section unordered-list, seperti berikut.
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab3Web/blob/main/tugas3/dua.png?raw=true)
+![alt text](https://github.com/Ainun27web-dasar/blob/master/Lab3Web/tugas3/dua.png?raw=true)
    
 3. Membuat Description List
 - Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list
@@ -140,7 +140,7 @@ section unordered-list, seperti berikut.
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab3Web/blob/main/tugas3/tiga.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab3Web/tugas3/tiga.png?raw=true)
 
 
 #### Membuat Tabel
@@ -207,7 +207,7 @@ section unordered-list, seperti berikut.
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab3Web/blob/main/tugas3/empat.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab3Web/tugas3/empat.png?raw=true)
 
 1. Mengatur Margin dan Padding
 - Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan cellspacing pada tag table.
@@ -256,7 +256,7 @@ section unordered-list, seperti berikut.
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab3Web/blob/main/tugas3/lima.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab3Web/tugas3/lima.png?raw=true)
 
 2. Menggabungkan Sel Data
 - Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara horizontal).
@@ -303,7 +303,7 @@ section unordered-list, seperti berikut.
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab3Web/blob/main/tugas3/enam.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab3Web/tugas3/enam.png?raw=true)
 
 #### Membuat Form
 - Buat file baru dengan nama lab3_form.html seperti berikut.
@@ -363,7 +363,7 @@ section unordered-list, seperti berikut.
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab3Web/blob/main/tugas3/tujuh.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab3Web/tugas3/tujuh.png?raw=true)
 
 1. Menabahkan Style pada Form
 - Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
@@ -422,7 +422,7 @@ section unordered-list, seperti berikut.
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab3Web/blob/main/tugas3/delapan.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab3Web/tugas3/delapan.png?raw=true)
   
 ## Pertanyaan Dan Tugas
 
@@ -505,4 +505,4 @@ section unordered-list, seperti berikut.
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab3Web/blob/main/tugas3/sembilan.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab3Web/tugas3/sembilan.png?raw=true)

@@ -4,15 +4,15 @@
 Tugas mengerjakan latihan pada module dua Pemrograman Web
        
 ##### Install XAMPP
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/1.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/1.png?raw=true)
 
 ##### Menjalankan Web Server
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/2.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/2.png?raw=true)
 
 ##### Memulai PHP
 - Buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)
 - Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/3.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/3.png?raw=true)
 
 ##### PHP Dasar
 - Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
@@ -33,7 +33,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </html>
 ```
 - Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/php_dasar.php
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/4.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/4.png?raw=true)
 
 #### Variable PHP
 - Menambahkan variable pada program.
@@ -61,7 +61,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/5.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/5.png?raw=true)
 
 ##### Predefine Variable $_GET
 
@@ -81,7 +81,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </html>
 ```
 - Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/latihan2.php?nama=Ainun
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/6.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/6.png?raw=true)
 
 ##### Membuat Form Input
 
@@ -107,7 +107,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/7.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/7.png?raw=true)
 
 ##### Operator
 
@@ -132,7 +132,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/8.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/8.png?raw=true)
 
 ##### Kondisi IF
 
@@ -159,7 +159,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/9.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/9.png?raw=true)
 
 ##### Kondisi Switch
 
@@ -191,7 +191,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/10.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/10.png?raw=true)
 
 ##### Perulangan for
 
@@ -218,7 +218,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/11.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/11.png?raw=true)
 
 ##### Perulangan While
 
@@ -243,7 +243,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/12.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/12.png?raw=true)
 
 ##### Perulangan Dowhile
 
@@ -268,7 +268,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/13.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/13.png?raw=true)
 
 ##### Tugas 
 - Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
@@ -333,6 +333,6 @@ if (isset($_POST['submit'])) {
 </html>
 
 ```
-![alt text](https://github.com/Ainun27/Lab7Web/blob/main/tugas7/14.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab7Web/tugas7/14.png?raw=true)
 
 

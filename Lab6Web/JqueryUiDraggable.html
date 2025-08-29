@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Elemen yang Dapat Ditarik</title>
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/base/jquery-ui.css" />
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <style>
+        #draggable {
+            width: 125px;
+            height: 125px;
+            background-color: #FFF;
+            text-align: center;
+            padding: 1px 5px;
+            border: 1px solid #AAA;
+            margin: auto;
+            float: left;
+        }
+
+        #containment-wrapper {
+            width: 95%;
+            height: 200px;
+            border: 1px solid #4E4E4E;
+            padding: 10px;
+        }
+    </style>
+    <script>
+        $(function() {
+            $("#draggable").draggable({
+                containment: "#containment-wrapper",
+                scroll: false
+            });
+        });
+    </script>
+</head>
+<body>
+    <div id="containment-wrapper">
+        <div id="draggable">
+            <p>I'm contained within the box</p>
+        </div>
+    </div>
+</body>
+</html>

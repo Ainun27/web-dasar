@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Pesan</title>
+    <style>
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h2>Berikan Pesan</h2>
+    <form id="contactForm">
+        <label for="name">Nama:</label><br>
+        <input type="text" id="name" name="name"><br>
+        <span class="error" id="nameError"></span><br>
+
+        <label for="email">Email:</label><br>
+        <input type="text" id="email" name="email"><br>
+        <span class="error" id="emailError"></span><br>
+
+        <label for="message">Pesan:</label><br>
+        <textarea id="message" name="message"></textarea><br>
+        <span class="error" id="messageError"></span><br>
+
+        <button type="submit">Kirim</button>
+    </form>
+
+    <script>
+        document.getElementById('contactForm').addEventListener('submit', function(event) {
+            event.preventDefault(); // Mencegah pengiriman form
+
+            // Mengambil nilai input
+            const name = document.getElementById('name').value.trim();
+            const email = document.getElementById('email').value.trim();
+            const message = document.getElementById('message').value.trim();
+
+            // Menghapus pesan error sebelumnya
+            document.getElementById('nameError').textContent = '';
+            document.getElementById('emailError').textContent = '';
+            document.getElementById('messageError').textContent = '';
+
+            let valid = true;
+
+            // Validasi nama
+            if (name === '') {
+                document.getElementById('nameError').textContent = 'Nama tidak boleh kosong.';
+                valid = false;
+            }
+
+            // Validasi email
+            if (email === '') {
+                document.getElementById('emailError').textContent = 'Email tidak boleh kosong.';
+                valid = false;
+            } else if (!validateEmail(email)) {
+                document.getElementById('emailError').textContent = 'Format email tidak valid.';
+                valid = false;
+            }
+
+            // Validasi pesan
+            if (message === '') {
+                document.getElementById('messageError').textContent = 'Pesan tidak boleh kosong.';
+                valid = false;
+            }
+
+            // Jika semua validasi berhasil, kirim form
+            if (valid) {
+                alert('Form berhasil dikirim!');
+                // Anda dapat menambahkan kode untuk mengirim data ke server di sini
+            }
+        });
+
+        // Fungsi untuk memvalidasi format email
+        function validateEmail(email) {
+            const re = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            return re.test(String(email).toLowerCase());
+        }
+    </script>
+</body>
+</html>

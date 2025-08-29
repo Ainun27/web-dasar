@@ -42,7 +42,7 @@ dan CSS.</p>
 
 1. Selanjutnya buka pada brwoser untuk melihat hasilnya.
    
-![alt text](https://github.com/Ainun27/Lab2Web/blob/main/tugas2/Screenshot%202024-10-08%20182343.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab2Web/tugas2/Screenshot%202024-10-08%20182343.png?raw=true)
 
 #### Mendeklarasikan CSS Internal
 
@@ -72,7 +72,7 @@ dan CSS.</p>
 
 2. Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasilnya.
    
-![alt text](https://github.com/Ainun27/Lab2Web/blob/main/tugas2/Screenshot%202024-10-08%20182508.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab2Web/tugas2/Screenshot%202024-10-08%20182508.png?raw=true)
 
 #### Menambahkan Inline CSS
 
@@ -84,7 +84,7 @@ dan CSS.</p>
 
 4. Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
    
-![alt text](https://github.com/Ainun27/Lab2Web/blob/main/tugas2/Screenshot%202024-10-08%20182638.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab2Web/tugas2/Screenshot%202024-10-08%20182638.png?raw=true)
 
 #### Membuat CSS Eksternal
 
@@ -118,7 +118,7 @@ background: #0B6B3A;
 
 7. Selanjutnya refresh kembali browser untuk melihat perubahannya.
 
-![alt text](https://github.com/Ainun27/Lab2Web/blob/main/tugas2/Screenshot%202024-10-08%20183144.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab2Web/tugas2/Screenshot%202024-10-08%20183144.png?raw=true)
 
 #### Menambahkan CSS Selector
 
@@ -154,7 +154,7 @@ background: #E42A42;
 
 9. Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 
-![alt text](https://github.com/Ainun27/Lab2Web/blob/main/tugas2/Screenshot%202024-10-08%20183256.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab2Web/tugas2/Screenshot%202024-10-08%20183256.png?raw=true)
   
 ## Pertanyaan Dan Tugas
 
@@ -183,7 +183,7 @@ p {
 
 #### hasil 
 
-![alt text](https://github.com/Ainun27/Lab2Web/blob/main/tugas2/Screenshot%202024-10-08%20184834.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab2Web/tugas2/Screenshot%202024-10-08%20184834.png?raw=true)
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 
@@ -234,7 +234,7 @@ p {
 
 #### Hasilnya
 
-![alt text](https://github.com/Ainun27/Lab2Web/blob/main/tugas2/Screenshot%202024-10-08%20193845.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab2Web/tugas2/Screenshot%202024-10-08%20193845.png?raw=true)
 
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
@@ -273,6 +273,6 @@ p {
 
 #### Hasilnya
 
-![alt text](https://github.com/Ainun27/Lab2Web/blob/main/tugas2/Screenshot%202024-10-08%20195405.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab2Web/tugas2/Screenshot%202024-10-08%20195405.png?raw=true)
 
 

@@ -5,7 +5,7 @@
 
 #### Menjalankan MySQL Server
 - Untuk menjalankan MySQL Server dari menu XAMPP Contol.
-![alt text](https://github.com/Ainun27/Lab8Web/blob/main/tugas8/1.png?raw=true)
+![alt text](https://github.com/Ainun27/Ainun27/web-dasar/blob/master/Lab8Web/tugas8/1.png?raw=true)
 
 #### Mengakses MySQL Client menggunakan PHP MyAdmin
 - Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser: http://localhost/phpmyadmin/
@@ -28,7 +28,7 @@ CREATE TABLE data_barang (
 );
 ```
 
-![alt text](https://github.com/Ainun27/Lab8Web/blob/main/tugas8/2.png?raw=true)
+![alt text](https://github.com/Ainun27/Ainun27/web-dasar/blob/master/Lab8Web/tugas8/2.png?raw=true)
 
 - Menambahkan Data
   
@@ -38,14 +38,14 @@ VALUES ('Elektronik', 'HP Samsung Android', 'hp_samsung.jpg', 2000000, 2400000, 
 ('Elektronik', 'HP Xiaomi Android', 'hp_xiaomi.jpg', 1000000, 1400000, 5),
 ('Elektronik', 'HP OPPO Android', 'hp_oppo.jpg', 1800000, 2300000, 5);
 ```
-![alt text](https://github.com/Ainun27/Lab8Web/blob/main/tugas8/3.png?raw=true)
+![alt text](https://github.com/Ainun27/Ainun27/web-dasar/blob/master/Lab8Web/tugas8/3.png?raw=true)
 
 #### Membuat Program CRUD
 - Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)
-![alt text](https://github.com/Ainun27/Lab8Web/blob/main/tugas8/4.png?raw=true)
+![alt text](https://github.com/Ainun27/Ainun27/web-dasar/blob/master/Lab8Web/tugas8/4.png?raw=true)
 
 - Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:http://localhost/lab8_php_database/
-![alt text](https://github.com/Ainun27/Lab8Web/blob/main/tugas8/5.png?raw=true)
+![alt text](https://github.com/Ainun27/Ainun27/web-dasar/blob/master/Lab8Web/tugas8/5.png?raw=true)
 
 #### Membuat file koneksi database
 - Buat file baru dengan nama koneksi.php
@@ -65,7 +65,7 @@ VALUES ('Elektronik', 'HP Samsung Android', 'hp_samsung.jpg', 2000000, 2400000, 
     ?>
 ```
 - Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”;
-![alt text](https://github.com/Ainun27/Lab8Web/blob/main/tugas8/6.png?raw=true)
+![alt text](https://github.com/Ainun27/Ainun27/web-dasar/blob/master/Lab8Web/tugas8/6.png?raw=true)
 
 #### Membuat file index untuk menampilkan data (Read)
 - Buat file baru dengan nama index.php
@@ -167,7 +167,7 @@ VALUES ('Elektronik', 'HP Samsung Android', 'hp_samsung.jpg', 2000000, 2400000, 
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab8Web/blob/main/tugas8/7.png?raw=true)
+![alt text](https://github.com/Ainun27/Ainun27/web-dasar/blob/master/Lab8Web/tugas8/7.png?raw=true)
 
 #### Menambah Data (Create)
 - Buat file baru dengan nama tambah.php
@@ -261,7 +261,7 @@ if (isset($_POST['submit'])) {
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab8Web/blob/main/tugas8/8.png?raw=true)
+![alt text](https://github.com/Ainun27/Ainun27/web-dasar/blob/master/Lab8Web/tugas8/8.png?raw=true)
 
 #### Mengubah Data (Update)
 - Buat file baru dengan nama ubah.php
@@ -315,7 +315,7 @@ $product = [
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab8Web/blob/main/tugas8/9.png?raw=true)
+![alt text](https://github.com/Ainun27/Ainun27/web-dasar/blob/master/Lab8Web/tugas8/9.png?raw=true)
 
 #### Menghapus Data (Delete)
 - Buat file baru dengan nama hapus.php
@@ -368,7 +368,7 @@ if (isset($_GET['id'])) {
 ?>
 
 ```
-![alt text](https://github.com/Ainun27/Lab8Web/blob/main/tugas8/10.png?raw=true)
+![alt text](https://github.com/Ainun27/Ainun27/web-dasar/blob/master/Lab8Web/tugas8/10.png?raw=true)
 
 
 

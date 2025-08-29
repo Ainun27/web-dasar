@@ -28,7 +28,7 @@ media="screen" />
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab9Web/blob/main/tugas9/1.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab9Web/tugas9/1.png?raw=true)
 
 - Buat file baru dengan nama footer.php
 ```sh
@@ -57,7 +57,7 @@ media="screen" />
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab9Web/blob/main/tugas9/2.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab9Web/tugas9/2.png?raw=true)
 
 - Buat file baru dengan nama home.php
 ```sh
@@ -68,7 +68,7 @@ media="screen" />
 </div>
 <?php require('footer.php'); ?>
 ```
-![alt text](https://github.com/Ainun27/Lab9Web/blob/main/tugas9/3.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab9Web/tugas9/3.png?raw=true)
 
 - Buat file baru dengan nama about.php
 ```sh
@@ -79,7 +79,7 @@ media="screen" />
 </div>
 <?php require('footer.php'); ?>
 ```
-![alt text](https://github.com/Ainun27/Lab9Web/blob/main/tugas9/4.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab9Web/tugas9/4.png?raw=true)
 
 #### Tugas
 
@@ -109,8 +109,8 @@ media="screen" />
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab9Web/blob/main/tugas9/5.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab9Web/tugas9/5.png?raw=true)
 
-![alt text](https://github.com/Ainun27/Lab9Web/blob/main/tugas9/6.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab9Web/tugas9/6.png?raw=true)
 
 

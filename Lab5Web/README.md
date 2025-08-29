@@ -22,7 +22,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/1.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/1.png?raw=true)
 
 #### Javascrip Dasar
 - Pemakaian Alert sebagai property window
@@ -42,7 +42,7 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/2.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/2.png?raw=true)
 
 - Pemakaian method dalam objek
 
@@ -63,7 +63,7 @@ percobaan memakai javascript:<br>
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/3.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/3.png?raw=true)
 
 - Pemakaian Prompt
 
@@ -84,8 +84,8 @@ percobaan memakai javascript:<br>
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/4.png?raw=true)
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/41.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/4.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/41.png?raw=true)
 
 - Pembuatan fungsi dan cara pemanggilannya
 
@@ -105,7 +105,7 @@ percobaan memakai javascript:<br>
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/5.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/5.png?raw=true)
 
 #### Dasar Pemrograman Di Javascript
 - Operasi dasar aritmatika
@@ -138,8 +138,8 @@ percobaan memakai javascript:<br>
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/6.png?raw=true)
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/61.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/6.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/61.png?raw=true)
 
 - Seleksi kondisi (if..else)
 
@@ -163,8 +163,8 @@ percobaan memakai javascript:<br>
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/7.png?raw=true)
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/71.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/7.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/71.png?raw=true)
 
 - Penggunaan operator switch untuk seleksi kondisi
 
@@ -203,9 +203,9 @@ percobaan memakai javascript:<br>
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/8.png?raw=true)
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/81.png?raw=true)
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/82.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/8.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/81.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/82.png?raw=true)
 
 #### Pembuatan Form
 - Form Input
@@ -234,7 +234,7 @@ percobaan memakai javascript:<br>
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/9.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/9.png?raw=true)
 
 - form button
 
@@ -272,8 +272,8 @@ percobaan memakai javascript:<br>
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/10.png?raw=true)
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/101.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/10.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas55/101.png?raw=true)
 
 - HTML DOM
 
@@ -311,7 +311,7 @@ percobaan memakai javascript:<br>
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/11.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/11.png?raw=true)
 
 #### Pertanyaan dan Tugas
 1. Buat script untuk melakukan validasi pada isian form.
@@ -401,6 +401,6 @@ percobaan memakai javascript:<br>
 </html>
 ```
 
-![alt text](https://github.com/Ainun27/Lab5Web/blob/main/tugas5/12.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab5Web/tugas5/12.png?raw=true)
 
 

@@ -38,8 +38,8 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab6Web/blob/main/tugas6/1.png?raw=true)
-![alt text](https://github.com/Ainun27/Lab6Web/blob/main/tugas6/2.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab6Web/tugas6/1.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab6Web/tugas6/2.png?raw=true)
 
 ##### jQuery Effects - Animation
 - gambarnya kotak ijonya berubah-rubah
@@ -73,8 +73,8 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </html>   
 ```
 
-![alt text](https://github.com/Ainun27/Lab6Web/blob/main/tugas6/3.png?raw=true)
-![alt text](https://github.com/Ainun27/Lab6Web/blob/main/tugas6/4.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab6Web/tugas6/3.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab6Web/tugas6/4.png?raw=true)
 
 ##### jQuery UI Draggable
 - kotaknya bisa pindah-pindah, tapi tidak melewati garis
@@ -124,4 +124,4 @@ Tugas mengerjakan latihan pada module dua Pemrograman Web
 </body>
 </html>
 ```
-![alt text](https://github.com/Ainun27/Lab6Web/blob/main/tugas6/5.png?raw=true)
+![alt text](https://github.com/Ainun27/web-dasar/blob/master/Lab6Web/tugas6/5.png?raw=true)
